@@ -1,0 +1,13 @@
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\bin\Debug\netcoreapp2.0\Plymorphism.Vehicles.deps.json
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\bin\Debug\netcoreapp2.0\Plymorphism.Vehicles.runtimeconfig.json
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\bin\Debug\netcoreapp2.0\Plymorphism.Vehicles.runtimeconfig.dev.json
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\bin\Debug\netcoreapp2.0\Plymorphism.Vehicles.dll
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\bin\Debug\netcoreapp2.0\Plymorphism.Vehicles.pdb
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\obj\Debug\netcoreapp2.0\Plymorphism.Vehicles.csproj.AssemblyReference.cache
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\obj\Debug\netcoreapp2.0\Plymorphism.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\obj\Debug\netcoreapp2.0\Plymorphism.Vehicles.AssemblyInfoInputs.cache
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\obj\Debug\netcoreapp2.0\Plymorphism.Vehicles.AssemblyInfo.cs
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\obj\Debug\netcoreapp2.0\Plymorphism.Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\obj\Debug\netcoreapp2.0\Plymorphism.Vehicles.dll
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\obj\Debug\netcoreapp2.0\Plymorphism.Vehicles.pdb
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Polymorphism.Vehicles\obj\Debug\netcoreapp2.0\Plymorphism.Vehicles.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iyHgeYvMr3VojdXadNK5dLOMW+p3rOQ+leJlDDQNNZpxof/x7zSJRqShbcGedE4nBl4kQ/fSW9GDS/0Rtuwy7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91834\\Downloads\\CSharp-OOP-Basics-master\\CSharp-OOP-Basics-master\\OopsSample\\OOPSExcercise\\Inheritance.BookShop\\Inheritance.BookShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91834\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\91834\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\91834\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\91834\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\91834\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\91834\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\bin\Debug\netcoreapp2.0\Inheritance.Person.deps.json
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\bin\Debug\netcoreapp2.0\Inheritance.Person.runtimeconfig.json
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\bin\Debug\netcoreapp2.0\Inheritance.Person.runtimeconfig.dev.json
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\bin\Debug\netcoreapp2.0\Inheritance.Person.dll
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\bin\Debug\netcoreapp2.0\Inheritance.Person.pdb
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\obj\Debug\netcoreapp2.0\Inheritance.Person.csproj.AssemblyReference.cache
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\obj\Debug\netcoreapp2.0\Inheritance.Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\obj\Debug\netcoreapp2.0\Inheritance.Person.AssemblyInfoInputs.cache
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\obj\Debug\netcoreapp2.0\Inheritance.Person.AssemblyInfo.cs
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\obj\Debug\netcoreapp2.0\Inheritance.Person.csproj.CoreCompileInputs.cache
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\obj\Debug\netcoreapp2.0\Inheritance.Person.dll
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\obj\Debug\netcoreapp2.0\Inheritance.Person.pdb
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.Person\obj\Debug\netcoreapp2.0\Inheritance.Person.genruntimeconfig.cache

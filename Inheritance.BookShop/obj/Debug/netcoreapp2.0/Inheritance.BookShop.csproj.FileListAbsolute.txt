@@ -1,0 +1,13 @@
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\bin\Debug\netcoreapp2.0\Inheritance.BookShop.deps.json
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\bin\Debug\netcoreapp2.0\Inheritance.BookShop.runtimeconfig.json
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\bin\Debug\netcoreapp2.0\Inheritance.BookShop.runtimeconfig.dev.json
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\bin\Debug\netcoreapp2.0\Inheritance.BookShop.dll
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\bin\Debug\netcoreapp2.0\Inheritance.BookShop.pdb
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\obj\Debug\netcoreapp2.0\Inheritance.BookShop.csproj.AssemblyReference.cache
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\obj\Debug\netcoreapp2.0\Inheritance.BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\obj\Debug\netcoreapp2.0\Inheritance.BookShop.AssemblyInfoInputs.cache
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\obj\Debug\netcoreapp2.0\Inheritance.BookShop.AssemblyInfo.cs
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\obj\Debug\netcoreapp2.0\Inheritance.BookShop.csproj.CoreCompileInputs.cache
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\obj\Debug\netcoreapp2.0\Inheritance.BookShop.dll
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\obj\Debug\netcoreapp2.0\Inheritance.BookShop.pdb
+C:\Users\91834\Downloads\CSharp-OOP-Basics-master\CSharp-OOP-Basics-master\OopsSample\08.Inheritance - Exercise\Inheritance.BookShop\obj\Debug\netcoreapp2.0\Inheritance.BookShop.genruntimeconfig.cache
